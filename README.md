@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="height: 190px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvnhong&layout=compact" style="width: 45%; height: 190px;" /> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=nvnhong" style="width: 45%; height: 190px;" />
 </p>
